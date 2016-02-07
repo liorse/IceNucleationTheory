@@ -1,0 +1,552 @@
+Drop Information	Freeze Temperature	Diameter (microns)
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-35.54	36.99
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-35.34	36.81
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-34.60	27.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-32.94	38.68
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-32.15	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-32.02	40.18
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-31.52	38.88
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-31.18	35.49
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-31.13	36.54
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-31.04	37.22
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.93	42.03
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.91	32.99
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.80	36.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.77	38.50
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.70	32.20
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.70	38.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-30.50	39.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.50	37.39
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.50	38.19
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.50	38.75
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-30.48	38.27
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.44	37.53
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-30.40	36.39
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.40	36.85
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-30.30	38.04
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.30	39.35
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-30.20	36.53
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.10	37.93
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.10	38.03
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-30.07	40.37
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.01	38.71
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-30.00	38.52
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.98	40.15
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.94	38.32
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-29.92	36.54
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.88	34.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-29.80	35.80
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-29.72	40.33
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.70	39.10
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.69	39.15
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-29.68	41.29
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.67	38.29
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-29.64	38.40
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.63	35.48
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.58	37.54
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.57	37.14
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.57	41.02
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.53	37.57
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-29.50	29.96
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-29.46	37.27
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-29.46	37.35
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.43	39.22
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.40	32.34
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.40	36.90
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.40	37.71
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.40	39.65
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.37	35.28
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-29.34	35.50
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-29.30	36.01
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.30	35.74
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-29.24	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-29.22	38.74
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.20	41.29
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-29.12	40.82
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-29.02	40.33
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-28.93	37.46
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.92	36.71
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.90	32.51
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.82	38.01
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-28.63	39.62
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-28.63	40.40
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-28.53	39.95
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.50	34.45
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.50	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.43	36.33
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.43	38.77
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-28.40	27.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.40	36.75
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.40	41.71
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.39	38.80
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.37	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.33	35.93
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-28.28	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-28.20	37.62
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.20	38.39
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.20	38.72
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.20	42.04
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-28.18	38.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-28.15	39.88
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.15	38.87
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.15	39.03
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-28.10	38.92
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.10	39.15
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.10	39.57
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-28.08	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-28.07	37.51
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-28.05	34.95
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.04	35.52
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-28.04	36.12
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-28.02	35.08
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-27.90	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.90	37.65
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.88	33.36
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.84	37.05
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.83	36.71
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.83	37.54
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.82	38.26
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.82	31.84
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.82	34.94
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.81	37.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-27.76	29.96
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.73	45.09
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-27.69	29.96
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.68	39.21
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.68	37.38
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.66	34.60
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.66	36.65
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.64	39.08
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.62	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.62	35.09
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-27.60	27.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.60	41.39
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-27.58	36.21
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.57	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.57	39.43
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.53	41.09
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.50	31.65
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.50	36.92
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.50	38.35
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.50	38.44
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.47	35.14
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.47	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.45	33.99
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-27.40	33.00
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.40	29.96
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.40	38.14
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.37	32.72
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.37	37.77
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-27.33	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.33	35.06
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.33	36.47
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.33	40.29
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.30	38.92
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.30	37.66
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.30	39.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.28	37.84
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.27	37.59
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.26	37.88
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.26	39.71
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.20	36.40
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.20	39.65
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.18	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.18	36.31
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.18	36.56
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.17	39.44
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.16	41.40
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.14	41.30
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.13	40.12
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.13	38.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.13	39.59
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-27.10	38.86
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.10	35.91
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.10	36.28
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-27.02	27.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-27.02	38.27
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.99	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.99	39.64
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.97	37.27
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.97	27.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.96	43.89
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.96	38.83
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.94	33.94
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.93	38.63
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.91	36.46
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.90	38.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.90	38.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.90	34.94
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.89	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.87	36.50
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.86	39.28
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.86	41.39
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.86	39.42
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.84	37.80
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.84	38.09
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.83	34.38
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.83	33.92
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.82	42.43
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.80	36.74
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.80	37.00
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.78	40.86
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.77	37.74
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.74	35.26
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.73	31.21
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.73	38.77
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.73	36.38
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.72	37.78
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.71	37.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.71	38.23
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.71	39.58
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.70	38.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.70	38.89
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.68	37.39
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.68	37.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.68	38.40
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.67	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.65	29.96
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.65	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.65	36.23
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.65	40.05
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.62	37.47
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.62	39.58
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.62	37.98
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.60	35.27
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.60	38.87
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.60	38.94
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.60	29.22
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.60	35.01
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.60	36.61
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.60	36.92
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.60	38.29
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.56	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.56	35.91
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.55	29.11
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.54	37.57
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.53	36.97
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.52	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.50	24.51
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.50	31.57
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.50	34.37
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.50	36.33
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.50	37.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.50	38.93
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.48	36.62
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.47	40.77
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.45	33.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.44	38.18
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.43	36.55
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.43	38.70
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.43	41.19
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.41	42.48
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.40	38.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.40	36.02
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.40	41.06
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.40	38.60
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.37	38.26
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.37	36.09
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.37	37.90
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.35	34.91
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.35	39.78
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.35	33.85
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.35	36.48
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.35	39.02
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.35	40.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.33	34.36
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.33	31.49
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.32	37.00
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.32	37.90
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.32	43.20
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.30	37.47
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.30	35.05
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.30	41.27
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.28	36.93
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.27	38.45
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.27	39.64
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.24	35.38
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.23	37.74
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.23	41.45
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.23	39.53
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.21	37.84
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.20	38.18
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.20	39.50
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.20	39.86
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.20	37.33
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.20	37.67
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.20	37.95
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.18	41.09
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.17	41.31
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.15	34.71
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.15	38.45
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.15	38.61
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.15	41.43
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.13	34.39
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.13	35.20
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.13	39.67
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.13	40.12
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.10	38.90
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.10	40.91
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.10	36.83
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.10	37.58
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.10	37.68
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.10	38.35
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.10	39.00
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.10	42.72
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.09	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.09	35.84
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.09	37.47
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.07	38.10
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.07	39.27
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.06	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.06	35.87
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.06	43.90
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.05	38.35
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.04	35.77
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-26.04	36.15
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.04	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.03	36.32
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.03	38.03
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.01	34.10
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.01	35.78
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-26.01	38.44
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.00	39.45
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.00	40.77
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-26.00	41.72
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.99	35.86
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.99	37.70
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.98	40.18
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.97	36.68
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.97	38.49
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.97	40.12
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.96	35.66
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.96	37.22
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.96	38.44
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.96	39.83
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.95	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.94	40.35
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.93	37.70
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.92	37.58
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.90	36.48
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.90	36.67
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.88	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.88	38.93
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.88	39.94
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.87	34.70
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.87	37.04
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.85	38.89
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.83	39.64
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.83	39.86
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.83	42.02
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.83	36.02
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.82	43.58
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.82	36.68
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.82	39.73
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.80	37.36
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.80	37.89
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.80	40.06
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.80	42.42
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.77	38.25
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.74	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.74	39.06
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.73	38.92
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.73	39.65
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.71	34.68
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.71	39.56
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.70	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.70	38.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.70	37.01
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.70	40.02
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.70	37.19
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.69	38.51
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.67	37.08
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.67	38.30
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.67	32.88
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.66	37.14
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.66	37.38
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.66	40.36
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.64	40.50
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.63	41.34
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.63	30.37
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.63	36.77
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.63	36.84
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.61	35.08
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.61	36.02
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.61	36.50
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.61	38.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.61	39.50
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.58	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.57	38.37
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.57	36.12
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.57	40.65
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.57	42.33
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.55	37.09
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.54	33.88
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.54	43.02
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.54	43.15
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.53	27.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.53	37.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.50	37.21
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.50	41.59
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.50	35.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.50	38.32
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.50	40.89
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.49	41.52
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.47	34.46
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.47	39.67
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.47	39.89
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.47	41.19
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.46	38.05
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.46	34.08
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.46	39.91
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.45	36.45
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.45	38.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.44	36.81
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.44	39.09
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.44	42.71
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.41	36.36
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.41	40.72
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.40	29.96
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.40	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.40	34.06
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.40	37.83
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.40	36.50
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.40	40.23
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.39	38.35
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.39	39.77
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.39	40.86
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.39	36.97
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.39	37.49
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.39	37.49
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.36	34.82
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.36	40.86
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.34	37.74
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.34	39.58
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.33	36.08
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.33	36.52
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.33	37.25
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.33	37.66
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.33	38.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.31	38.61
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.30	38.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.30	39.45
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.30	36.65
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.30	37.39
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.27	38.87
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.27	35.61
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.27	38.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.25	37.88
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.23	31.15
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.23	35.68
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.23	36.29
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.23	40.02
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.20	36.19
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.20	38.12
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.20	38.87
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.20	39.74
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.20	40.54
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.19	41.34
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.19	36.74
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.17	36.16
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.16	40.26
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.16	38.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.16	39.16
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.14	38.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.14	38.47
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.14	38.78
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.14	41.27
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.14	34.47
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.13	37.93
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.13	38.96
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.13	39.12
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.13	39.66
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.12	38.92
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.11	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.11	35.91
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.11	40.51
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.11	34.97
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.11	37.61
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.10	39.05
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.10	29.96
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.10	40.94
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.08	37.51
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-25.07	37.14
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.02	33.86
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-25.00	32.67
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-25.00	37.35
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.97	37.26
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.97	37.32
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.95	37.71
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.95	29.76
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.93	36.00
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.93	39.47
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.93	40.47
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.92	40.62
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.92	36.26
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.88	34.83
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.87	39.25
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.86	41.99
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-24.86	32.94
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.84	40.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-24.83	38.84
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-24.81	38.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.80	35.56
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.80	36.56
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.80	37.71
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.80	38.42
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.77	39.90
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.74	37.39
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.74	40.19
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.74	40.86
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.73	40.43
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.70	28.94
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.70	36.61
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.67	35.19
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.63	34.95
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.63	41.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.63	41.89
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.60	34.20
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.58	37.93
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.58	34.55
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.58	35.42
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.50	35.98
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.50	37.08
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.50	38.64
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.48	41.52
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-24.47	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.47	38.51
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.44	36.83
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-24.43	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.40	41.23
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.37	37.36
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.33	32.95
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-24.32	29.96
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-24.32	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.31	32.97
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.31	33.98
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.31	35.64
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.26	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.26	42.21
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.25	34.02
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.20	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.18	32.69
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.18	34.33
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.18	35.41
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.18	36.30
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.18	39.86
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.18	39.89
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.18	40.35
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.15	33.31
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.13	37.46
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-24.12	40.62
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.10	42.47
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-24.00	37.53
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-23.87	34.26
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-23.87	39.13
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-23.86	38.98
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-23.83	38.73
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-23.70	36.56
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-23.30	36.93
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-23.23	42.42
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-10_47_07.avi	-2.10	27.24
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151216\IN study with the NCC 0.40g in 1ml water-16_12_2015-11_52_19.avi	-2.10	41.82
+E:\Box Sync\LabBox\Naama Reicher\WISDOM Measurements_Naama\20151229\Heating of NCC samples 0.4g in 1 ml-29_12_2015-10_14_53.avi	-2.10	39.68

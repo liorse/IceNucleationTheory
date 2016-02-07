@@ -1,0 +1,48 @@
+Conclusion that we reached in this meeting:
+
+1. BET gives surface area per mass taking into account both external surface and volume surface area( pores). This means that even two samples are pure substances, if they will have different size distribution, one will get a different BET value.
+
+2. To make sure that the concentration and size distribution remained the same during water injection in experiment, one should take a sample before and after water+particle injection into a microfluidic device. Droplet volume sample on a silicon slide should be measured precisely. After sample evaporation, take SEM images. From SEM images, calculate total number of particles and their size distribution and from taking into account density, one can calculate the total particle mass. Total particle mass and water volume will then give the measured particle concentration before and after water injection. This will enable you to put a limit on the final surface area of the particles in each droplet for each experiment.
+
+
+
+
+
+TotalMass = 0.01 gram
+Diameter =  200 nm 
+Density = 1 gram / cm^3
+
+Volume = 4 * pi / 3 * (Diameter/2)^3  in m^3=> 4.1888e-21 m^3
+ParticleMass = Density * Volume in gram=> 4.1888e-15 gram
+NoOfParticles = TotalMass/ ParticleMass = > 2,387,324,146,378.43
+BET = 5 m^2/gram
+
+SurfaceAreaFromBET = BET * ParticleMass => 2.0944e-14 m^2
+SurfaceAreaOfParticle = 4 * pi * (Diameter/2)^2 in m^2 => 1.2566e-13 m^2
+
+Ratio = SurfaceAreaOfParticle / SurfaceAreaFromBET = > 6
+
+TotalSurfaceAreaBET = NoOfParticles * SurfaceAreaFromBET => 0.05 m^2
+TotalSurfaceAreaParticle = NoOfParticles * SurfaceAreaOfParticle => 0.3 m^2
+
+TotalSurfaceArea = NoOfParticles * (SurfaceAreaOfParticle  + SurfaceAreaFromBET) => 0.35 m^2
+
+
+
+TotalMass = 0.01 gram
+Diameter =  800 nm 
+Density = 1 gram / cm^3
+
+Volume = 4 * pi / 3 * (Diameter/2)^3  in m^3=> 2.6808e-19 m^3
+ParticleMass = Density * Volume in gram=> 2.6808e-13 gram
+NoOfParticles = TotalMass/ ParticleMass = > 37,301,939,787.163
+BET = 5 m^2/gram
+
+SurfaceAreaFromBET = BET * ParticleMass => 1.3404e-12 m^2
+SurfaceAreaOfParticle = 4 * pi * (Diameter/2)^2 in m^2 => 2.0106e-12 m^2
+
+Ratio = SurfaceAreaOfParticle / SurfaceAreaFromBET = > 1.5
+TotalSurfaceAreaBET = NoOfParticles * SurfaceAreaFromBET => 0.05 m^2
+TotalSurfaceAreaParticle = NoOfParticles * SurfaceAreaOfParticle => 0.075 m^2
+TotalSurfaceArea = NoOfParticles * (SurfaceAreaOfParticle  + SurfaceAreaFromBET) => 0.125 m^2
+
